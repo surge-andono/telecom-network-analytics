@@ -3,7 +3,7 @@
 This repository is organized to support end-to-end telecom network analytics, from raw data ingestion and ETL processing to BI dashboards and executive storytelling.
 
 ---
-
+Please refer to the repository structure in [REPOSITORY_STRUCTURE.md](../docs/REPOSITORY_STRUCTURE.md)
 ## 📘 Core Documentation
 - [README.md](../README.md)
 - [Project Overview](../docs/PROJECT_OVERVIEW.md)
