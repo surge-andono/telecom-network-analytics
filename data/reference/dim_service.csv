@@ -1,0 +1,5 @@
+service_key,service,sla_class
+1,4G LTE,Mobile
+2,5G,Mobile
+3,FTTH,Fixed
+4,Metro Ethernet,Core
