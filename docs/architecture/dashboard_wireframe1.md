@@ -6,7 +6,7 @@
 flowchart TB
 
 %% ===== PAGE 1 =====
-subgraph P1["PAGE 1 — Executive Overview"]
+subgraph P1["PAGE&nbsp;1&nbsp;—&nbsp;Executive&nbsp;Overview"]
     T1["Title + Subtitle"]
 
     K1["KPI: Availability (%)"]
@@ -19,7 +19,7 @@ subgraph P1["PAGE 1 — Executive Overview"]
 end
 
 %% ===== PAGE 2 =====
-subgraph P2["PAGE 2 — Operational Performance"]
+subgraph P2["PAGE&nbsp;2&nbsp;—&nbsp;Operational&nbsp;Performance"]
     O1["Avg Downtime / Incident by Service"]
     O2["Avg Downtime / Site by Region"]
     O3["Incident Count VS Avg Downtime / Incident"]
@@ -27,7 +27,7 @@ subgraph P2["PAGE 2 — Operational Performance"]
 end
 
 %% ===== PAGE 3 =====
-subgraph P3["PAGE 3 — SLA & Risk Analysis"]
+subgraph P3["PAGE&nbsp;3&nbsp;—&nbsp;SLA&nbsp;&&nbsp;Risk&nbsp;Analysis"]
     R1["SLA Compliance Trend + SLA Line"]
     R2["SLA Gap by Service"]
     R3["SLA Breach Duration by Service"]
