@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "total_rules": 4,
+  "failed_rules": 0,
+  "critical_failures": 0,
+  "warning_failures": 0,
+  "coverage_pct": 100.0,
+  "violations": []
+}
