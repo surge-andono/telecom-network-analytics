@@ -22,10 +22,10 @@ This solution addresses those needs using automated data pipelines and executive
 
 ### Solution Architecture
 
-- [Step 1: End-to-end analytics design](docs/01_End_to_End_Analytics_Solution_Design.md)
-- [Step 2: Realistic telecom data model &amp; sample data](docs/02_Data_Model_and_Sample_Data.md)
-- [Step 3: Automated ETL with data quality gates](docs/03_ETL_and_Automation_Implementation.md)
-- [Step 4: Executive KPIs &amp; SLA decision layer](docs/04_Executive_KPI_and_SLA_Decision_Layer.md)
+- 🧠 [Step 1: End-to-end analytics design](docs/01_End_to_End_Analytics_Solution_Design.md)
+- 🗂️ [Step 2: Realistic telecom data model &amp; sample data](docs/02_Data_Model_and_Sample_Data.md)
+- ⚙️ [Step 3: Automated ETL with data quality gates](docs/03_ETL_and_Automation_Implementation.md)
+- 📊 [Step 4: Executive KPIs &amp; SLA decision layer](docs/04_Executive_KPI_and_SLA_Decision_Layer.md)
 
 ---
 
